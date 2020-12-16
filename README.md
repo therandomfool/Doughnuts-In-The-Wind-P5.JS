@@ -1,6 +1,6 @@
 # Doughnuts In The Wind P5.JS
 
-- creatGraphics(x,y) Creates and returns a new p5.Renderer object. Use this class if you need to draw into an off-screen graphics buffer. The two parameters define the width and height in pixels.
+- creatGraphics(x,y) Creates and returns a new p5.Renderer object. The two parameters define the width and height in pixels.
 
 - blendMode(SCREEN) Blends the pixels in the display window according to the defined mode. SCREEN - opposite multiply, uses inverse values of the colors.
 
